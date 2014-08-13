@@ -1,0 +1,2 @@
+c:\users\pdogra\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+c:\users\pdogra\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
